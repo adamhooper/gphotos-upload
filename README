@@ -1,0 +1,7 @@
+Upload a directory to Google Photos.
+
+Usage:
+
+`pipenv run gphotos-upload.py ~/Pictures`
+
+TODO documentation, etc. In the meantime, installation is just `pipenv install`.
